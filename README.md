@@ -1,4 +1,4 @@
-# 🛡️ Guia Completo: Portfólio de Cibersegurança no GitHub
+# 🛡️Portfólio de Cibersegurança
 
 > Baseado em ambiente de laboratório: Kali Linux, Metasploitable 2, Windows Server, Ubuntu
 
@@ -69,12 +69,12 @@ cybersecurity-portfolio/
 Use este template para cada máquina que você explorar. Salve como `README.md` dentro da pasta da máquina.
 
 ```markdown
-# [Nome da Máquina/Lab]
+# [Kali/Ninho do Corvo]
 
-**Data:** DD/MM/AAAA  
-**Plataforma:** [Hack The Box / TryHackMe / VulnHub / Lab Próprio]  
-**Dificuldade:** [Fácil / Médio / Difícil / Insane]  
-**Tipo:** [Linux / Windows]  
+**Data:** 20/03/2026  
+**Plataforma:** [Lab Próprio]  
+**Dificuldade:** [Fácil / Médio / Difícil]  
+**Tipo:** [Linux]  
 **Técnicas Principais:** [Enumeração, SQL Injection, Buffer Overflow, etc.]
 
 ---
